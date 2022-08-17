@@ -1,5 +1,5 @@
 baseurl      = "https://ghosty514.github.io/webb2/"
-title        = "My Blog"
+title        = "webb2"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
