@@ -9,4 +9,4 @@ tags:
 ---
 
 This is a paragraph
-![Akko](https://static.wikia.nocookie.net/all-worlds-alliance/images/8/82/Akko_final_design223.png/revision/latest?cb=20191012121921)
+![Akko](/images/akko.png "Akko")
