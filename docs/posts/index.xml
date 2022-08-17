@@ -17,7 +17,7 @@
             <guid>https://ghosty514.github.io/webb2/posts/examplepost/</guid>
             <description>This is a paragraph </description>
             <content type="html"><![CDATA[<p>This is a paragraph
-<img src="/static/img/akko.png" alt="Akko, magical"></p>
+<img src="/img/akko.png" alt="Akko" title="Akko"></p>
 ]]></content>
         </item>
         
